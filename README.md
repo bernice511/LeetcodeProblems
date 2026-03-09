@@ -6,9 +6,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0217-contains-duplicate](https://github.com/bernice511/LeetcodeProblems/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/bernice511/LeetcodeProblems/tree/main/0238-product-of-array-except-self/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/bernice511/LeetcodeProblems/tree/main/0238-product-of-array-except-self/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0217-contains-duplicate](https://github.com/bernice511/LeetcodeProblems/tree/main/0217-contains-duplicate/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0217-contains-duplicate](https://github.com/bernice511/LeetcodeProblems/tree/main/0217-contains-duplicate/) | Easy |
 <!---LeetCode Topics End-->
