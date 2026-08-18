@@ -3,8 +3,11 @@ class Solution:
         sol = set()
         nums.sort()
         for i in range(len(nums)-1):
+            if i > 0 and nums[i] == nums[i - 1]:
+                continue
             left = i+1
             right = len(nums)-1
+            
             while left<right:
                 total =  nums[i]+nums[left]+nums[right]
                 if total == 0:
