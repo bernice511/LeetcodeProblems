@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/bernice511/LeetcodeProblems/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/bernice511/LeetcodeProblems/tree/main/0049-group-anagrams/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bernice511/LeetcodeProblems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bernice511/LeetcodeProblems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -26,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/bernice511/LeetcodeProblems/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/bernice511/LeetcodeProblems/tree/main/0049-group-anagrams/) | Medium |
 | [0217-contains-duplicate](https://github.com/bernice511/LeetcodeProblems/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/bernice511/LeetcodeProblems/tree/main/0242-valid-anagram/) | Easy |
@@ -59,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/bernice511/LeetcodeProblems/tree/main/0015-3sum/) | Medium |
 | [0125-valid-palindrome](https://github.com/bernice511/LeetcodeProblems/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bernice511/LeetcodeProblems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 ## Dynamic Programming
