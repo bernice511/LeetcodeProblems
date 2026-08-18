@@ -1,6 +1,6 @@
 class Solution:
     def threeSum(self, nums: list[int]) -> list[list[int]]:
-        sol = set()
+        sol = []
         nums.sort()
         for i in range(len(nums)-1):
             if i > 0 and nums[i] == nums[i - 1]:
@@ -11,7 +11,7 @@ class Solution:
             while left<right:
                 total =  nums[i]+nums[left]+nums[right]
                 if total == 0:
-                    sol.add((nums[i], nums[left], nums[right]))
+                    sol.append([nums[i], nums[left], nums[right]])
                     left = left+1
                     right=right-1
                     while left < right and nums[left] == nums[left - 1]:
@@ -22,5 +22,5 @@ class Solution:
                     left=left+1
                 else:
                     right=right-1
-        return [list(el) for el in sol]
+        return sol
         
