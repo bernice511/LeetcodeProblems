@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0015-3sum](https://github.com/bernice511/LeetcodeProblems/tree/main/0015-3sum/) | Medium |
 | [0036-valid-sudoku](https://github.com/bernice511/LeetcodeProblems/tree/main/0036-valid-sudoku/) | Medium |
+| [0042-trapping-rain-water](https://github.com/bernice511/LeetcodeProblems/tree/main/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/bernice511/LeetcodeProblems/tree/main/0049-group-anagrams/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bernice511/LeetcodeProblems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/bernice511/LeetcodeProblems/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -68,11 +69,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/bernice511/LeetcodeProblems/tree/main/0015-3sum/) | Medium |
+| [0042-trapping-rain-water](https://github.com/bernice511/LeetcodeProblems/tree/main/0042-trapping-rain-water/) | Hard |
 | [0125-valid-palindrome](https://github.com/bernice511/LeetcodeProblems/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bernice511/LeetcodeProblems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/bernice511/LeetcodeProblems/tree/main/0042-trapping-rain-water/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bernice511/LeetcodeProblems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -102,4 +105,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/bernice511/LeetcodeProblems/tree/main/0036-valid-sudoku/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/bernice511/LeetcodeProblems/tree/main/0042-trapping-rain-water/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/bernice511/LeetcodeProblems/tree/main/0042-trapping-rain-water/) | Hard |
 <!---LeetCode Topics End-->
