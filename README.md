@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/bernice511/LeetcodeProblems/tree/main/0015-3sum/) | Medium |
+| [0036-valid-sudoku](https://github.com/bernice511/LeetcodeProblems/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/bernice511/LeetcodeProblems/tree/main/0049-group-anagrams/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bernice511/LeetcodeProblems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/bernice511/LeetcodeProblems/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -22,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bernice511/LeetcodeProblems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0036-valid-sudoku](https://github.com/bernice511/LeetcodeProblems/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/bernice511/LeetcodeProblems/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/bernice511/LeetcodeProblems/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0217-contains-duplicate](https://github.com/bernice511/LeetcodeProblems/tree/main/0217-contains-duplicate/) | Easy |
@@ -96,4 +98,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/bernice511/LeetcodeProblems/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0036-valid-sudoku](https://github.com/bernice511/LeetcodeProblems/tree/main/0036-valid-sudoku/) | Medium |
 <!---LeetCode Topics End-->
